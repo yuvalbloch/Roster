@@ -1,0 +1,23 @@
+body{
+    background: #F4F4F4;
+}
+#continer
+{
+    display: grid;
+    grid-template-columns: repeat(5,1fr);
+}
+.player
+{
+
+    margin: 50px;
+    background: #C0B283;
+    border-color: #373737;
+    border-width: 3px;
+    border-style: ridge;
+    border-radius: 10px;
+    text-align: center;
+}
+.pic{
+  background: #DCD0C0;
+    width: 100%;
+}
